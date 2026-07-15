@@ -16,3 +16,10 @@ BrainVitta (Peg Solitaire) puzzle game built with Python and Tkinter.
 
 Rutuja Gaikwad
 
+## Screenshots
+
+### Screenshot 1
+![Game](screenshot/screenshotsgame.png.png)
+
+### Screenshot 2
+![Game](screenshot/screenshotsgame.png%20(2).png)
